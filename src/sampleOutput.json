@@ -1,0 +1,156 @@
+{
+  "status": "ok",
+  "totalResults": 15,
+  "articles": [
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Abid Hussain",
+      "title": "Army brat to ‘anti-establishment’: Evolution of Pakistan’s Omar Ayub Khan",
+      "description": "His grandfather led Pakistan’s first military coup. Is PTI’s Omar Ayub Khan the democracy champion his country needs?",
+      "url": "https://www.aljazeera.com/news/2024/3/6/army-brat-to-anti-establishment-evolution-of-pakistans-omar-ayub-khan",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/03/OAK-1-1709539641.jpg?resize=1711%2C1080",
+      "publishedAt": "2024-03-06T05:23:37Z",
+      "content": "Islamabad, Pakistan Moments after Pakistans newly-elected Prime Minister Shehbaz Sharif concluded his victory speech amid a ruckus in parliament, Omar Ayub Khan got up to address the house from the o… [+16208 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Tim Stevens",
+      "title": "Mini's first electric Countryman has a wild interior that's not to be missed",
+      "description": "While Mini will offer the new Countryman with a gasoline-burning engine, the star of the lineup will be the new, $45,200, all-electric Countryman SE.",
+      "url": "https://www.engadget.com/minis-first-electric-countryman-has-a-wild-interior-thats-not-to-be-missed-041508080.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/S68Z015TNqW6tp5CQ8qF2g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-03/883f10e0-db5d-11ee-bdfb-021947bc6b43",
+      "publishedAt": "2024-03-06T04:15:08Z",
+      "content": "Mini has promised to go all electric by 2030\r\n, a date that seemed pretty far off back in 2021 but right now is starting to sound not that far off at all. While the company's prior battery-powered ef… [+802 chars]"
+    },
+    {
+      "source": { "id": "cbc-news", "name": "CBC News" },
+      "author": "CBC News",
+      "title": "Super (predictable) Tuesday: Trump, Biden sweep early races | CBC News",
+      "description": "U.S. President Joe Biden and former president Donald Trump began racking up early wins as states across the country held Super Tuesday primary elections, moving them closer to a historic rematch despite a lack of enthusiasm from many voters.",
+      "url": "http://www.cbc.ca/news/world/super-tuesday-republicans-democrats-1.7134816",
+      "urlToImage": "https://i.cbc.ca/1.7134882.1709692720!/cpImage/httpImage/image.jpg_gen/derivatives/16x9_620/election-2024-super-tuesday-tennessee.jpg",
+      "publishedAt": "2024-03-06T03:22:20.9245447Z",
+      "content": "U.S. President Joe Biden and former president Donald Trump began racking up early wins as states across the country held Super Tuesday primary elections, moving them closer to a historic rematch desp… [+5298 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Brooke Singman",
+      "title": "Trump reacts to Super Tuesday victories: 'Rarely has politics seen anything quite like this'",
+      "description": "Former President Trump said Super Tuesday was 'great evening,' and that it is his 'honor to represent not just the Republican Party but our country in leading it back to health and prosperity.'",
+      "url": "https://www.foxnews.com/politics/trump-reacts-super-tuesday-victories-rarely-has-politics-seen-anything-quite-like-this",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Trump-VA.jpg",
+      "publishedAt": "2024-03-06T02:58:21Z",
+      "content": "EXCLUSIVE: Former President Trump, reacting to Super Tuesday primary victories, told Fox News Digital that it is a \"great evening,\" and that it is his \"honor to represent not just the Republican Part… [+1278 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Devin Coldewey",
+      "title": "Roku disables TVs and streaming devices until users consent to forced arbitration | TechCrunch",
+      "description": "Roku users around the country turned on their TVs yesterday to find an unpleasant surprise: the company required them to consent to an arbitration",
+      "url": "https://techcrunch.com/2024/03/05/roku-disables-tvs-and-streaming-devices-until-users-consent-to-forced-arbitration/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/03/roku-glitch.jpg?resize=1200,778",
+      "publishedAt": "2024-03-06T00:51:01Z",
+      "content": "Roku users around the country turned on their TVs yesterday to find an unpleasant surprise: the company required them to consent to an arbitration agreement in order to access their device. The devic… [+3651 chars]"
+    },
+    {
+      "source": { "id": "fox-news", "name": "Fox News" },
+      "author": "Charles Creitz",
+      "title": "Hume warns 'the country sees' that Biden is 'palpably senile' as State of the Union approaches",
+      "description": "President Biden's acuity is front and center on voters' minds, Fox News chief political analyst Brit Hume claimed Tuesday on 'Special Report.'",
+      "url": "https://www.foxnews.com/media/hume-warns-country-sees-biden-palpably-senile-state-union-approaches",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/03/Biden-split.png",
+      "publishedAt": "2024-03-06T00:35:54Z",
+      "content": "Fox News chief political analyst Brit Hume is not surprised by the growing concerns about President Biden's age and mental acuity he believes they have been a \"ticking time bomb.\"\r\nAsked on Super Tue… [+2787 chars]"
+    },
+    {
+      "source": { "id": "ars-technica", "name": "Ars Technica" },
+      "author": "Jonathan M. Gitlin",
+      "title": "We drive Mini’s first electric crossover, the 2025 Countryman SE ALL4",
+      "description": "The Countryman SE goes on sale later in 2024, starting at $45,200.",
+      "url": "https://arstechnica.com/cars/2024/03/we-drive-minis-first-electric-crossover-the-2025-countryman-se-all4/",
+      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2024/03/2025-Mini-Countryman-SE-1-760x380.jpg",
+      "publishedAt": "2024-03-05T23:01:03+00:00",
+      "content": "Enlarge/ Mini has made a fully electric version of its Countryman compact crossover, replacing the outgoing plug-in hybrid Countryman.\r\n37\r\nBMW provided flights from Washington to Lisbon, Portugal, a… [+4231 chars]"
+    },
+    {
+      "source": { "id": "news-com-au", "name": "News.com.au" },
+      "author": "Benedict Brook in the US",
+      "title": "Trump victorious: ‘I will win the election’",
+      "description": "Donald Trump has declared Joe Biden the “the worst president in the history of our country“ in a speech as he (almost) swept the Super Tuesday primaries in the US.",
+      "url": "https://www.news.com.au/world/north-america/us-politics/super-tuesday-results-live-donald-trump-takes-on-nikki-haley-in-15-us-primaries/news-story/38dc200a218b659c8fafa000a2813f1b",
+      "urlToImage": "https://content.api.news/v3/images/bin/74a159026f88c5ed8ec73bd546ff1616",
+      "publishedAt": "2024-03-05T21:03:00Z",
+      "content": "Donald Trump has declared Joe Biden the “the worst president in the history of our country“ in a speech as he (almost) swept the Super Tuesday primaries in the US. \r\nPrimaries decide who from each pa… [+7651 chars]"
+    },
+    {
+      "source": { "id": "al-jazeera-english", "name": "Al Jazeera English" },
+      "author": "Mat Nashed",
+      "title": "The Israelis who want a ceasefire in their country’s war on Gaza",
+      "description": "More Israelis are echoing global calls for a permanent or temporary ceasefire, but their reasons differ.",
+      "url": "https://www.aljazeera.com/features/2024/3/5/the-israelis-who-want-a-ceasefire-in-israels-war-on-gaza",
+      "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2024/02/2024-02-27T120357Z_392850559_RC2YA6AFOI17_RTRMADP_3_ISRAEL-PALESTINIANS-PROTEST-1709038796.jpg?resize=1920%2C1440",
+      "publishedAt": "2024-03-05T17:02:33Z",
+      "content": "West Jerusalem I dont believe in this war and I dont believe that the goals of this war can be achieved, said 39-year-old Avital Suisa.\r\nThis war is pointless.\r\nlist of 3 itemslist 1 of 3\r\nlist 2 of … [+6434 chars]"
+    },
+    {
+      "source": { "id": "financial-post", "name": "Financial Post" },
+      "author": "Bloomberg News",
+      "title": "First Quantum expects to ship trapped Panama copper within weeks",
+      "description": "First Quantum Minerals said it expects to get approval from Panama to sell copper concentrate currently trapped in the country. Keep reading",
+      "url": "https://financialpost.com/commodities/mining/first-quantum-ship-cobra-panama-copper",
+      "urlToImage": "https://smartcdn.gprod.postmedia.digital/financialpost/wp-content/uploads/2024/03/protesters-outside-the-shuttered-first-quantum-minerals-mine.jpg",
+      "publishedAt": "2024-03-05T16:08:40Z",
+      "content": "First Quantum Minerals Ltd. expects to secure authorization from Panamanian officials in the coming weeks to sell more than 120,000 metric tons of copper concentrate stored near a port that served it… [+1420 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "HUIZHONG WU",
+      "title": "Economic plans, Taiwan and other things to know from the opening of China's legislature",
+      "description": "BEIJING (AP) — China's Premier Li Qiang promoted an image of confidence as he announced modest economic growth goals for the world's second largest economy, at one of the country's most important political gatherings.",
+      "url": "https://apnews.com/76ee304ab3fcafb45c0af9a2968e8d5d",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/c728b0e7834048f79b5f9216f52ee669/1920.jpeg",
+      "publishedAt": "2024-03-05T06:53:55Z",
+      "content": "BEIJING (AP) — China's Premier Li Qiang promoted an image of confidence as he announced modest economic growth goals for the world's second largest economy, at one of the country's most important pol… [+3838 chars]"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Alex Fitzpatrick, Kavya Beheraj",
+      "title": "The country's new business hot spots, mapped",
+      "description": "The Southeastern U.S. is a hotbed of new business activity.",
+      "url": "https://www.axios.com/2023/07/13/new-business-hot-spots",
+      "urlToImage": "https://images.axios.com/aDr8aF2q-EoHWlnE6VUNLPYxpRE=/0x0:1280x720/1366x768/2023/07/12/1689197791881.png",
+      "publishedAt": "2023-07-13T09:30:06Z",
+      "content": "The Southeastern U.S. is a hotbed of new business activity, home to nine of the top 10 major metro areas with the most new business applications per 1,000 residents last year.\r\nDriving the news: That… [+1716 chars]"
+    },
+    {
+      "source": { "id": "the-next-web", "name": "The Next Web" },
+      "author": "Ioanna Lykiardopoulou",
+      "title": "Rapid delivery giant Getir quits France, citing regulation hurdles",
+      "description": "Quick commerce platform Getir is bidding adieu to the French market — less than two years since starting its operations in the country.\r\n\r\nIn a press release sent to AFP, the company ...",
+      "url": "http://thenextweb.com/news/quick-delivery-giant-getir-quits-france",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2FUntitled-design-3-11.jpg&signature=01a135e05b853a78b83268994e4f2cbf",
+      "publishedAt": "2023-06-22T11:21:08Z",
+      "content": "Quick commerce platform Getir is bidding adieu to the French market less than two years since starting its operations in the country.\r\nIn a press release sent to AFP, the company said that it will so… [+1469 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Eamon Barrett",
+      "title": "A new report shows how badly the Trump administration slashed the U.S.’s climate credentials",
+      "description": "The ranking from Yale University says decisions made by the Trump administration slashed the country's climate credentials",
+      "url": "https://fortune.com/2022/06/01/trump-us-climate-action-paris-accord-methane-yale-environmental-performance-index/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/06/GettyImages-1342340441-e1654072113634.jpg?resize=1200,600",
+      "publishedAt": "2022-06-01T10:31:29Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "rte", "name": "RTE" },
+      "author": "RTÉ News",
+      "title": "275,000 appointments made at Penneys this week",
+      "description": "There have been 275,000 appointment slots booked for Penneys stores around the country this week, the retailer has said.",
+      "url": "https://www.rte.ie/news/business/2021/0515/1221782-penneys/",
+      "urlToImage": "https://img.rasset.ie/0016c07f-1600.jpg",
+      "publishedAt": "2021-05-15T10:52:52Z",
+      "content": "There have been 275,000 appointment slots booked for Penneys stores around the country this week, the retailer has said.\r\nPenney's 36 stores opened on an appointment-only basis from last Monday, with… [+577 chars]"
+    }
+  ]
+}
